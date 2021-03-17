@@ -13,7 +13,7 @@
 <br>
 </ul>
 
-<p style="font-weight: bold">Toda a contrução do projeto dentro do ambiente local é bem relativa. <br>Vou detalhar abaixo com está o código mas a execução ficará por sua conta.</p>
+<p style="font-weight: bold">Toda a construção do projeto dentro do ambiente local é bem relativa. <br>Vou detalhar abaixo com está o código mas a execução ficará por sua conta.</p>
 
 ### Como está o projeto
 
